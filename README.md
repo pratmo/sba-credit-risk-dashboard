@@ -208,7 +208,7 @@ sba-credit-risk-dashboard/
 **Prathik**
 M.Sc. Data Science - Symbiosis University
 
-[![Tableau Public](https://public.tableau.com/views/SBA7aCreditRiskAnalysis/SBACreditRisk-FullAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Tableau Public](https://public.tableau.com/views/SBA7aCreditRiskAnalysis/SBACreditRisk-FullAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
