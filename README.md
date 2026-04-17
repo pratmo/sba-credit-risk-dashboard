@@ -6,9 +6,9 @@
 
 ## Project Overview
 
-This project builds a **five dashboard interactive credit risk monitoring system** using real U.S. government loan data from the Small Business Administration (SBA). It mirrors how a bank's credit risk team monitors portfolio health, identifies dangerous segments, and reports to senior management.
+This project builds a **five dashboard interactive credit risk monitoring system** using real U.S. government loan data from the Small Business Administration (SBA). It is built on the U.S. SBA FOIA 7(a) loan data covering 357,866 loans, $185.9B in exposure, and $667M in realised charge-offs across FY2020–FY2026.
 
-The entire pipeline, from raw government data to polished interactive dashboards, was built independently using Python for data engineering and Tableau for visualisation.
+Python handles the data engineering part by cleaning raw government records, creating default and charge-off flags, mapping 6-digit NAICS codes to industry sectors, and engineering loan size, term, and rate bands. The Tableau dashboards surface default rates, loss severity, and exposure concentration across borrower segments, industries, geographies, loan structures, and origination vintages. Credit institutions can use this framework to identify high-risk segments, monitor concentration limits, benchmark lender performance, and detect early warning signals before charge-offs materialise.
 
 | Metric | Value |
 |---|---|
