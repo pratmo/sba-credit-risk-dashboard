@@ -206,7 +206,7 @@ sba-credit-risk-dashboard/
 ## Author
 
 **Prathik Mohan**
-M.Sc. Data Science - Symbiosis University
+*- M.Sc. Data Science (Symbiosis University)*
 
 ![Tableau Public](https://public.tableau.com/views/SBA7aCreditRiskAnalysis/SBACreditRisk-FullAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
